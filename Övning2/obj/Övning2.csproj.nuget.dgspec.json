@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\leo.sundberg1\\Documents\\Programming 2\\Övning2\\Övning2\\Övning2.csproj": {}
+    "c:\\Users\\leo.sundberg1\\Documents\\Programming 2\\Övning2\\Övning2\\Övning2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\leo.sundberg1\\Documents\\Programming 2\\Övning2\\Övning2\\Övning2.csproj": {
+    "c:\\Users\\leo.sundberg1\\Documents\\Programming 2\\Övning2\\Övning2\\Övning2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\leo.sundberg1\\Documents\\Programming 2\\Övning2\\Övning2\\Övning2.csproj",
+        "projectUniqueName": "c:\\Users\\leo.sundberg1\\Documents\\Programming 2\\Övning2\\Övning2\\Övning2.csproj",
         "projectName": "Övning2",
-        "projectPath": "C:\\Users\\leo.sundberg1\\Documents\\Programming 2\\Övning2\\Övning2\\Övning2.csproj",
+        "projectPath": "c:\\Users\\leo.sundberg1\\Documents\\Programming 2\\Övning2\\Övning2\\Övning2.csproj",
         "packagesPath": "C:\\Users\\leo.sundberg1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\leo.sundberg1\\Documents\\Programming 2\\Övning2\\Övning2\\obj\\",
+        "outputPath": "c:\\Users\\leo.sundberg1\\Documents\\Programming 2\\Övning2\\Övning2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
